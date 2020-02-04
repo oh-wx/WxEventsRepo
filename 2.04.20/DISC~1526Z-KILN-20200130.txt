@@ -1,0 +1,116 @@
+000
+FXUS61 KILN 301526
+AFDILN
+
+AREA FORECAST DISCUSSION
+National Weather Service Wilmington OH
+1026 AM EST Thu Jan 30 2020
+
+.SYNOPSIS...
+High pressure centered near New England will move off the
+Atlantic coast on Friday. An embedded disturbance will move into
+the Ohio Valley tonight and Friday, bringing a chance of rain
+and snow. The chance of rain and snow will continue into
+Saturday as another disturbance moves east across the Great
+Lakes.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+A slight bump in temperatures is the primary change in the
+forecast this morning. Cloud cover just south of the CWA is
+exhibiting erosion from a clear patch over central KY, but this
+will be overcome later today by a higher level overcast stratus
+deck. Will wait until this potential clearing actually starts
+to work into the CWA before jumping on a forecast change to
+clear what has been a unusually stubborn stratus deck over the
+entire region.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM FRIDAY/...
+Clouds will be on the increase again tonight as another s/wv
+digs southeast into the Ohio Valley. Models are now showing a
+subtle low level jet developing between 925 mb and 850 mb
+late. This will result in weak warm advection/isentropic lift.
+Have a chance of rain/snow moving into the Tri-State region
+toward morning. Lows will be in the lower 30s.
+
+On Friday, models suggest that the greatest forcing will max out
+between mid morning and mid afternoon along and south of the
+Ohio River as isentropic lift becomes focused in this region.
+Thus, have PoPs ranging from slight chance north to likely along
+and south of the Ohio River. Rain and snow can be expected
+during the morning with pcpn transitioning over to rain by
+afternoon as temperatures warm. A few tenths of slushy snow may
+occur along and south of the Ohio River, but overall a half inch
+or less. Highs will range from the upper 30s north to the lower
+40s south.
+
+&&
+
+.LONG TERM /FRIDAY NIGHT THROUGH WEDNESDAY/...
+As we enter February, we can expect above normal temperatures,
+and a couple of weather systems giving the potential for
+precipitation.
+
+A disturbance dropping southeast through the Great Lakes may
+produce some light precipitation Friday night and Saturday. Rain
+mixing with snow is the expected weather type in an environment
+that will only be marginally cold enough for wintry precip.
+
+This weak system will be followed by a large ridge aloft, and
+associated surface high pressure. No precipitation is forecast
+for Sunday and Monday in the moisture starved environment.
+
+As the upper ridge translates eastward, a moist southwest flow
+will develop into the Ohio Valley near a surface low, bringing
+the likelihood for rain Monday night and Tuesday. Some snow may
+mix in Wednesday as colder air filters in toward the end of the
+event behind the departing low and associated cold front.
+
+Temperatures probably staying above normal through the period
+will show notable day to day variance with respect to weather
+systems. After highs rise mainly into the 40s on Saturday,
+readings will reach the 50s by Monday and Tuesday due to warm
+advection on the southwest flow between the high and low. A
+retreat back to the 30s and 40s is forecast for Wednesday in
+cold advection behind the low.
+
+&&
+
+.AVIATION /16Z THURSDAY THROUGH MONDAY/...
+A weak disturbance will move across the region into the first
+part of Thursday morning. Stratocumulus clouds will remain
+trapped under an inversion. Ceilings will range from 2800 to
+3500 ft AGL. By this afternoon, diurnal heating should lift all
+ceilings into the 3500 to 4500 foot range. Some breaks in the
+cloud cover are possible, but there is low confidence at this
+time to clear skies beyond broken at this time.
+
+For tonight, more embedded energy is forecast to dig east into
+the Ohio Valley. Models suggest that low level forcing/WAA
+advection may develop pcpn to the southwest of the KCVG/KLUK
+terminals after 06Z. This pcpn is then forecast to move into
+the vicinity of KCVG/KLUK around 12Z and over the sites by 15Z.
+Precipitation is likely to be rain and snow. MVFR/IFR ceilings
+and visibilities are forecast to accompany the precipitation.
+
+OUTLOOK... MVFR/IFR ceilings and visibilities likely Friday
+into Friday evening. MVFR ceilings Saturday into Saturday night.
+
+&&
+
+.ILN WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+KY...None.
+IN...None.
+
+&&
+
+$$
+SYNOPSIS...Hickman
+NEAR TERM...Franks
+SHORT TERM...Hickman
+LONG TERM...Coniglio
+AVIATION...Campbell/Hickman

@@ -1,0 +1,209 @@
+449
+FXUS64 KFWD 092012
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+212 PM CST Thu Jan 9 2020
+
+
+.SHORT TERM...
+/Tonight through Midnight Friday night/
+The primary headline is that the numerical guidance has continued
+to slow down the upper level low, deepen it more, and some models
+are even showing an evolution into a negative tilt trough by
+Friday night. Needless to say this trend is indicative of a more
+dynamic system and results in the severe weather risk area being
+pulled back farther to the west. At this point, we are comfortable
+advertising a severe weather threat over the entire CWA, however
+the greater risk will continue to be from roughly the I-35
+corridor eastward into East Texas. All modes of severe weather
+will be possible Friday afternoon and evening.
+
+For tonight a warm/moist advection regime will prevail with
+dewpoints continuing to creep upward. Clouds will also persist
+and this will keep temperatures from cooling too much. Lows will
+be in the low to mid 60s. While this should be above the record
+high minimums for both DFW and Waco these will likely not hold
+through all of Friday due to the arriving cold front.
+
+(Of note: DFW broke a 120 year record high minimum of 53 with a
+low of 58 this morning. And of even more note: that 53 is the
+coldest high minimum record temp at DFW for any day. It`s
+incredible DFW somehow dodged a warmer minimum temp 118 times
+until today).
+
+Otherwise a lead upper level disturbance is tracking over the
+area this afternoon and will pull off to the northeast this
+evening. Weak lift from this system will allow for the
+continuation of showers over the eastern half of the area with
+even a threat of some elevated isolated thunderstorms mainly in
+the northeast zones this evening. Thus PoPs will be highest over
+the east with no PoPs mentioned farther west and all will taper
+down after midnight.
+
+The upper level trough to our west will close off Friday and enter
+the state during the afternoon hours. Strong dynamical forcing
+will overspread the region well ahead of it and result in the
+lifting of a weak cap by early afternoon. Although CIN will be
+negligible with the cap gone, determining whether we will have
+convective initiation out ahead of a cold front remains a huge
+forecast challenge since there will be no level focus to help
+"trigger" storms. Should vigorous convection develop in this
+regime we will be particularly concerned about supercells and the
+tornado potential given the high values of wind shear in place and
+well organized cyclonically curving hodographs. The supercells
+that form in these weakly-forced warm advection regimes out ahead
+of the front are the ones responsible for our noteworthy cool
+season tornado events (and some warm season events too). The setup
+for this event certainly checks all the boxes for what we look
+for in a cool season tornado outbreak, with perhaps the exception
+of instability being just a little lower than the big events like
+Dec 29th `06 and Dec 26th `15 (if you believe current model
+forecasts). And so what keeps us from saying a tornado outbreak is
+on the horizon is that there are countless unnamed and forgotten
+events that look similar to this one which produced no tornadoes.
+So I believe the key tomorrow will be the instability - reflected
+by the dewpoint readings during the late morning and afternoon
+hours. If upper 60s dewpoints can make it into the region and
+temperatures can climb into the mid 70s, then it will likely be a
+bad day for us. Until then the best we can say is that the severe
+weather threat will begin in the early afternoon hours when some
+of these cells MAY start to develop. These early supercells could
+develop anywhere in North/Central Texas, but probably the eastern
+half of the region is more favored due to the expected higher
+moisture. They will be very fast moving, rocketing off to the
+northeast at 50 mph, and given the expected low cloud cover,
+visual spotting and tracking will be difficult.
+
+By the late afternoon hours a north-south oriented "Pacific" cold
+front will organize and intensify in our western zones and begin
+to move rapidly east. With the addition of a well defined low
+level "trigger" into the mix, strong dynamic forcing, and no
+capping inversion, a line of severe thunderstorms will develop
+along the front. Given the strong wind profiles this line will
+likely result in a moderate threat of damaging winds and some
+brief spin-up tornadoes. We believe the line will form around 4
+pm near Hwy 281 and move eastward - affecting the I-35 corridor
+between 5 pm and 9 pm, and the far eastern zones before midnight.
+
+Not to be forgotten will be the threat for heavy rainfall. The
+axis of highest rain (2-4 inches) is expected to be from the DFW
+area and points northeast where the line will have its slowest
+initial motion. Elsewhere about 1 inch is expected, except for the
+far western zones where some will miss out altogether.
+
+TR.92
+
+&&
+
+.LONG TERM...
+/Saturday morning onward/
+
+Following the passage of Friday`s thunderstorm event (see short-
+term discussion), a strong Arctic cold front will pass through
+North and Central Texas. Robust cold air advection behind the cold
+front will allow temperatures to fall into the 30s across
+virtually the entire CWA, with temperatures likely to fall to
+below freezing west of a line from Bonham to Fort Worth to
+Comanche. While the majority of the precipitation will have moved
+off to the east of our CWA, light precipitation should develop on
+the back side of the upper-level low in the deformation zone. The
+GFS is the most aggressive with precipitation, with the NAM being
+the most conservative. The ECMWF seems to lie between these two
+extremes, and has also exhibited the most run-to-run consistency
+with respect to the evolution of the synoptic pattern.
+
+Going off of the ECMWF solution, the upper-level low should be
+centered near or just north of the Red River by Saturday morning.
+Strong ascent (seen on isentropic charts) will overspread the
+region. There remains some question with regards to the amount of
+moisture that will be available, but given that synoptic-scale
+lift will be quite strong, and mid-level rates will be around 7
+C/km, whatever little moisture that will exist should be able to
+be "squeezed out". The result will be light, patchy precipitation
+near and north of Interstate 20. Forecast soundings suggest that
+snow or a rain/snow mix would be the most likely precipitation
+type. Right now, accumulations (if any at all) would most likely
+be light, and confined to grassy areas, rooftops, and other
+elevated surfaces. One concern however is that with strong 850 mb
+frontogenesis and steep mid-level lapse rates, there could be a
+potential for localized bursts of heavier snow. If this were to
+occur, it`s not entirely out of the question that some spots could
+pick up a quick inch of snow. It should be stressed that this is
+more of a reasonable high-end scenario, and is not either the most
+likely scenario, nor is it something that most locations will
+likely see. The most likely scenario for most locations along and
+north of I-20 is brief, light snow, that barely accumulates if at
+all. The probability of seeing accumulating snowfall will increase
+the farther north one goes. Precipitation should come to an end
+across the CWA by early Saturday afternoon.
+
+With that out of the way, Sunday looks to be cold, but dry. A
+modest warming trend will begin as we head into early next week.
+Low chances for rain showers (and perhaps a few thunderstorms)
+will return on Monday and continue into Tuesday as a warm air
+advection regime establishes itself. Severe weather is not
+expected.
+
+On Wednesday, another strong cold front looks to move into the
+region, bringing higher rain chances. There remains a significant
+spread in the model guidance with how cold the air will be behind
+this next cold front, so we will continue to show all rain for
+now, but this mid to late next week storm system will be the next
+event to watch.
+
+Godwin
+
+&&
+
+
+.AVIATION... /Issued 1159 AM CST Thu Jan 9 2020/
+Modest southerly flow will continue to result in warm/moist
+advection that will allow MVFR CIGS to prevail for most TAF sites
+through mid afternoon. There is still a low potential for IFR at
+KACT/KDAL/KGKY through early afternoon. With upstream dewpoints
+now equaling the temperatures at KFTW/KAFW/KDFW will leave the
+mention of IFR out for those sites. By late afternoon and through
+mid evening, VFR CIGs will prevail, but these will again fall to
+MVFR before midnight and remain there through tomorrow. Have not
+included IFR at Metroplex sites tonight, with the thinking that
+the clouds and stronger winds should keep temperatures up and
+lessen the chance of low level saturation. However this will need
+to be monitored. Did show IFR around daybreak at KACT where low
+level moisture should be greater and help saturation along.
+
+Some drizzle or showers will be possible early this afternoon, but
+most of this activity will shift off to the east later today.
+Otherwise the chance of showers will ramp up again after sunrise
+Friday. Although instability will be available for elevated storms
+Friday morning will hold off on mentioning any thunder in the TAFs
+until the afternoon hours.
+
+TR.92
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    64  71  35  44  32 /  20 100  90  20   0
+Waco                66  73  36  49  30 /  20  90 100   5   0
+Paris               62  70  37  44  27 /  50  90 100  40   0
+Denton              64  71  32  44  30 /  10  90  80  20   0
+McKinney            63  71  33  42  29 /  20 100 100  30   0
+Dallas              65  72  35  44  32 /  20 100  90  20   0
+Terrell             64  73  35  46  28 /  30  90 100  20   0
+Corsicana           66  73  38  47  31 /  30  90 100  10   0
+Temple              65  73  38  52  32 /  10  90 100   5   0
+Mineral Wells       61  71  30  45  32 /  10  70  40  10   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+Flash Flood Watch from Friday afternoon through late Friday
+night for TXZ093>095-103>107-118>120.
+
+&&
+
+$$
+
+37/92

@@ -1,0 +1,155 @@
+314
+FXUS64 KFWD 171810
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+1210 PM CST Fri Jan 17 2020
+
+
+.SHORT TERM...
+/This Afternoon through Saturday/
+
+A surface low is currently situated over South Texas with a warm
+front extending northeast across Southeast Texas, and a weak
+surface trough extending northward along I-35. The Metroplex is
+currently split between northwest winds and temperatures in the
+40s on the west side of the trough, and southeast winds/lower 50s
+temps on the east side. On either side, as is the case across most
+of the region, fog and occasional drizzle continues to linger and
+may end up hanging around through the afternoon and into the
+evening. Fortunately, there is no dense fog as visibilities have
+remained a mile or more. There will be a broad range in high
+temperatures, with the western-most counties likely topping out in
+the 40s, areas east of the I-35 corridor in the 55 to 60 degree
+range, and the southern-most counties (who will end up south of
+the warm front) near 70.
+
+Showers will be on the increase later this afternoon as a
+shortwave disturbance lifts northeast across the region.
+Precipitation associated with this feature is already increasing
+over South Central/Southwest Texas. Visibilities will likely
+improve as the showers move in and mixes out the fog.
+Thunderstorms will be possible, but should remain fairly isolated
+due to limited instability.
+
+The shortwave will exit to the northeast as a cold front moves in
+from the northwest tonight. Convergence along the front should be
+sufficient for additional showers overnight, mainly east of I-35
+where the better moisture will linger. The front should reach the
+I-20 corridor just before daybreak Saturday, then push through
+the remainder of the area Saturday morning. Cooler and drier air
+behind the front will keep temperatures in the 40s and 50s for
+Saturday.
+
+30
+
+&&
+
+.AVIATION...
+/18Z TAFs/
+
+A weak trough extending from near KAUS to DFW is the source of
+the varying winds in the Metroplex and Central Texas. DFW has
+shifted to a light west wind, but will likely shift to the south
+again later this afternoon. Either way, wind speeds should remain
+at or below 10 kt for the next few hours, before return flow
+takes over and brings southeast winds up into the 10-15kt range
+later this afternoon.
+
+LIFR cigs should persist until showers move in from the
+southwest, "improving" conditions to IFR after 21Z. Isolated
+thunder will be possible after 21Z, but at this time it looks like
+it will remain too isolated to include in any of the TAFs.
+Showers will exit to the northeast this evening. A cold front
+will bring northwest winds in the DFW Metroplex by 12Z Saturday,
+which is around the time conditions will finally improve to VFR.
+FROPA & VFR will arrive at KACT around 15Z Saturday.
+
+30
+
+&&
+
+
+.LONG TERM... /Issued 328 AM CST Fri Jan 17 2020/
+
+/Sunday through Next Friday/
+
+After a brief reprieve from the rain from the latter half of the
+weekend through Tuesday, a slightly wetter pattern is expected to
+unfold around mid-week into next weekend. Daytime high
+temperatures through mid-week next week will be below normal with
+a slight warming trend thereafter. Morning conditions will feel
+chilly before moderating through the end of the long term period.
+
+A ridge of high pressure should settle in across the Southern
+Plains on Sunday and will linger through the day on Monday. Light
+winds, clear skies, and the dry airmass will promote optimal
+radiational cooling and a freeze is anticipated for most locales
+(outside of the immediate D/FW Metroplex and parts of Central
+Texas) for the first few mornings of the long term forecast
+period. As mid-level ridging breaks down, we`ll see an increase
+in high clouds as early as late Monday in through the day Tuesday.
+An upper trough swinging through the Midwest will send a diffuse
+backdoor frontal boundary through the Ozarks and Northeast Texas.
+For this reason, areas north and northeast of the D/FW Metroplex
+will likely see Tuesday high temperatures remain in the 40s, while
+most other areas climb into the 50s. Rain chances associated with
+the backdoor front are low and the better risk for measurable
+precipitation will be across the Big Country where a strengthening
+WAA regime will be in place late Tuesday into early Wednesday.
+
+Ascent thanks to the warm air advection (WAA) regime will be
+augmented by lift from a broad, but quick moving upper trough,
+forecast to traverse the Southern Plains during the pre-dawn hours
+on Wednesday. With the cooler air in the mid-levels associated
+with this diffuse upper trough, there may be a low-end potential
+for a few sleet pellets to mix in with the light rain, mainly
+along the Red River. In fact, forecast soundings do suggest that
+if enough evaporative cooling can occur, a very wet snow/sleet mix
+may not be out of the realm of possibility (though amounts will be
+light and this should mitigate impacts). For now, I`ll leave
+winter wx out of the forecast and reassess this over the next few
+days. Deterministic model guidance is quite bullish with PoPs late
+Tuesday into Wednesday and given the very modest nature of the
+trough and WAA, I feel the lower PoPs advertised by some of the
+blends are more appropriate.
+
+The best rain chances will slowly shift eastward ahead of the
+next main upper trough forecast to arrive from the west. The 00
+UTC deterministic ECMWF remains among the slower guidance with the
+southern stream trough with a host of other medium/long range
+guidance offering a more progressive scenario. Given that this
+feature will likely undergo some amplification, it should slow and
+this is inferred from a dprog/dt of the last few ECMWF runs. I`ll
+delay the onset of the greater PoPs by just a hair on late
+Thursday and will indicate a slower clearing trend on Friday.
+Enough instability may exist for a few isolated storms. Severe
+weather is not expected at this time. Rain/storm chances should
+come to an end sometime Friday evening/early next Saturday.
+
+Bain
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    59  46  54  33  53 /  80  70   0   0   0
+Waco                65  52  57  26  53 /  60  60  20   0   0
+Paris               53  47  53  30  51 /  60  80   5   0   0
+Denton              56  44  53  31  52 /  80  80   0   0   0
+McKinney            57  45  54  33  51 /  80  80   5   0   0
+Dallas              60  46  55  33  53 /  70  70   5   0   0
+Terrell             60  49  56  31  53 /  60  60  10   0   0
+Corsicana           64  52  56  32  52 /  50  60  20   0   0
+Temple              66  52  58  33  53 /  60  50  20   0   0
+Mineral Wells       51  42  54  29  52 /  90  60   0   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+30/79

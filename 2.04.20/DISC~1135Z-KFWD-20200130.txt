@@ -1,0 +1,144 @@
+000
+FXUS64 KFWD 301135
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+535 AM CST Thu Jan 30 2020
+
+
+.SHORT TERM... /Issued 105 AM CST Thu Jan 30 2020/
+/Through Tonight/
+
+The next upper level shortwave is now making its way across the
+Desert Southwest and is moving east toward the region. In the
+meantime, low level moisture has led to the expansion of a shroud
+of clouds that now covers much of the Plains and into the Midwest.
+With much of the moisture remaining in place as the next system
+inches closer to the region, expect yet another day of cloudy
+skies across the region.
+
+Isentropic ascent is expected to increase through much of the
+morning, and by this afternoon, an area of precipitation is
+expected to initially develop south of our area. The area of
+precipitation will likely expand as it travels northeastward,
+affecting areas mainly along and east of I-35.
+
+The main challenge over the next 24 hours will be the
+precipitation type expected to reach the ground. The thermodynamic
+assessment implies that there will be a layer of dry air between
+600-800mb. Above that, strong isentropic ascent in a mostly
+saturated layer would suggest precipitation will most likely be
+falling. As precipitation falls into the dry layer, cooling
+effects will decrease the freezing layer to around 5,000 ft AGL.
+With enough ascent and steep lapse rates, convective elements may
+lead to a few sleet pellets falling from the most intense
+updrafts. Given surface temperatures are expected to remain in the
+40s while any frozen precipitation falls, no impacts are
+expected.
+
+All precipitation will gradually move east and northeast through
+the evening and overnight hours, leading to another chilly night
+across the region. Low temperatures tonight will likely range from
+the lower 30s in the west to lower 40s in the east.
+
+Hernandez
+
+&&
+
+.LONG TERM... /Issued 251 AM CST Thu Jan 30 2020/
+/Friday through Wednesday/
+
+Moisture will wrap around a departing low pressure system Friday
+keeping clouds in place for much of the morning.  The moisture
+will be shallow and measurable precipitation is not expected,
+however, a few sprinkles can`t be ruled out. Dry air will filter
+in from the northwest in the afternoon resulting in decreasing
+clouds. Afternoon highs will be near seasonal normals, ranging
+from the lower to middle 50s. A mostly clear sky, dry air and
+light wind will result in rapid radiational cooling after sunset,
+with lows falling into the 30s.
+
+A warming trend will begin in earnest Saturday with a high amplitude
+ridge building in from the west. Abundant sun will allow for mild
+afternoon temperatures mainly in the 60s. Temperatures will
+increase even more on Sunday as the upper ridge builds overhead
+and southerly winds and low level moisture both increase. Highs
+Sunday will range from the upper 60s in the northeast to the
+middle 70s across the west.
+
+The upper ridge axis will slide to the east Sunday night in response
+to a developing trough across the western states. Increasing low
+level warm/moist advection will result in increasing clouds and
+a mild night with lows from the mid 40s to the lower 50s.
+Monday will also be mostly cloudy and mild with highs from the mid
+60s to the mid 70s. Some warm air advection showers will also be
+possible, mainly across the eastern half of the region where
+moisture will be most abundant. A few showers will likely linger
+in the east through Monday night.
+
+Another cold front is progged to move across the region Tuesday,
+resulting in falling temperatures and a breezy northerly wind.  Lift
+along the front, coupled with broad large scale lift associated
+with and approaching upper trough, may be sufficient for some
+additional showers/isolated thunderstorms in the east.  Since
+moisture will be limited, we will keep PoPs low for now.
+
+The forecast will get a bit more complicated as we head into Tuesday
+night and Wednesday since cold air will be in place in the low
+levels of the atmosphere and both the GFS and ECMWF move the
+upper tough east across the state. The big uncertainty will be
+just how much moisture will be available. Since confidence is so
+low this far out, have decided to not bite off on mentioning any
+type of winter precipitation. Therefore we will keep precipitation
+all liquid for now and PoPs low.
+
+79
+
+&&
+
+.AVIATION... /NEW/
+/12Z TAF/
+
+A thick veil of MVFR continues to be in place across North and
+Central Texas in anticipation of the next upper level shortwave.
+This shortwave is currently west of our region, poised to make the
+trip eastward across North and Central Texas later this afternoon.
+As it does so, rain chances will increase as large scale forcing
+for ascent increases. Given the cold temperatures aloft, there may
+be a brief period where sleet pellets mix in with the rain. Given
+temperatures will remain in the 40s throughout the precipitation
+event, no impacts are expected at this time.
+
+The northeasterly winds in place will gradually become
+northwesterly, generally between 15-20 knots. As the
+precipitation moves eastward, a gradual improvement in CIGs is
+expected. Have sided with a slightly more optimistic forecast
+regarding the return of VFR skies around midnight tonight.
+
+Hernandez
+
+&&
+
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    46  38  56  36  63 /  20  20  10   0   0
+Waco                46  38  57  35  65 /  30  30  10   0   0
+Paris               46  38  53  35  59 /  20  20  10   0   0
+Denton              44  34  56  34  63 /  20  20  10   0   0
+McKinney            45  37  55  35  61 /  20  20  10   0   0
+Dallas              46  39  56  37  63 /  20  20  10   0   0
+Terrell             48  38  55  35  62 /  20  30  10   0   0
+Corsicana           49  40  55  36  62 /  30  30  10   0   0
+Temple              47  37  58  36  65 /  30  30  10   0   0
+Mineral Wells       44  34  56  33  65 /  20  20  10   0   0
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+8

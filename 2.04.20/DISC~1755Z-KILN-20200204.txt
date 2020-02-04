@@ -1,0 +1,194 @@
+000
+FXUS61 KILN 041755
+AFDILN
+
+AREA FORECAST DISCUSSION
+National Weather Service Wilmington OH
+1255 PM EST Tue Feb 4 2020
+
+.SYNOPSIS...
+A slow moving frontal boundary enhanced by waves of low
+pressure is forecast to produce several rounds of precipitation
+through the work week into Saturday. High pressure and dry
+weather are expected for Sunday.
+
+&&
+
+.UPDATE...
+
+Made minor changes to near term PoPs (increased to 100) as
+current radar trends show a persistent rain band stretching
+across the Ohio River. Rainfall amounts have been fairly light
+across the area with amounts generally a tenth of an inch or
+less.
+
+Cold front advancing from the northwest is now moving into the
+far NW portions of the forecast area with Lima, OH observing
+winds shifting out of the north as of the most recent
+observation. Timing of the cold front through the rest of the
+area remains on track with temperatures dropping quickly into
+the 30s behind the front through the evening.
+
+Concern then switches to the potential for wintry mixed
+precipitation across the north late this evening. Current
+expectations are on track with only light precipitation
+remaining as the primary wave shifts northeast. Fortunately,
+current road temperatures continue to look optimistic (lower
+50s) so doubt advisories will be needed. Will continue to
+monitor precipitation coverage and road temperatures throughout
+the afternoon as the cold front shifts southward and
+temperatures drop.
+
+.NEAR TERM /THROUGH TONIGHT/...
+We have a slow moving front aligned SW-NE along the forward
+flank of a long wave upper trough. The boundary is being
+enhanced by short wave energy triggering waves of surface low
+pressure. Moisture feeding from the southwest can be seen on
+satellite extending from the Pacific Ocean across Mexico, then
+up the Mississippi and Ohio River valleys to the ILN area. Rain
+developing as the moisture is transported over the boundary by a
+deep layer of strong winds will continue today. After a brief
+relative lull early this morning as an initial low center moves
+east, coverage should increase in advance of the next low. With
+1.1 inches PWAT contained in the moist plume, some locations
+could see around an inch of rain.
+
+Temperatures that remain way above normal early this morning
+will exhibit a decreasing trend as the boundary sags southward
+and winds shift to north. After all locations have highs in the
+50s this morning, readings should retreat to the 30s and 40s
+over the northern half of the FA this afternoon.
+
+&&
+
+.SHORT TERM /WEDNESDAY/...
+As the boundary and low center continue to settle
+southeastward, precip chances will show a decreasing trend
+tonight into Wednesday. Rain is expected to be more persistent
+tonight near the Ohio River closer to the boundary, while precip
+should diminish to a light wintry mix farther north. Road
+temperatures that are forecast to be well above freezing should
+limit the affects of any light ice and snow accumulations. Will
+mention minor threat in HWO for now, and later shifts may revise
+this plan if more robust wintry accumulations are anticipated.
+The next wave of low pressure will bring the likelihood for more
+rain Wednesday afternoon, mainly in southern locations. A light
+wintry mix may linger farther north.
+
+After low temperatures range from the upper 20s north to mid 30
+south tonight, readings are expected rebound only a bit on
+Wednesday, with highs reaching the low 30s north up to the upper
+30s south. There is lower than normal confidence in this
+temperature forecast due to model variation and uncertainty with
+respect to the frontal location.
+
+&&
+
+.LONG TERM /WEDNESDAY NIGHT THROUGH MONDAY/...
+A large scale mid level trough will be located across the central
+U.S. at the beginning of the long term period. Embedded s/wv energy
+is forecast to move from the base of the trough to the western Great
+Lakes Wednesday night into Thursday. This energy, associated with
+developing upper divergence from an level jet, will perturb a wave
+of low pressure along old frontal boundary. This wave will move
+northeast through our region Thursday morning. Strong moist ascent
+associated with a low level jet will spread widespread pcpn
+northeast into the region Wednesday night. Warm air aloft will be
+quickly pushed northward. This will pose a ptype issue for parts of
+the area as temperatures will linger near or just below freezing
+until warmer air at the surface arrives Thursday morning. Given
+various solutions of low strength and tracks, will continue to use
+an NBM approach for surface temperatures and thermal fields aloft.
+At this time, the transition zone for mixed pcpn is slated for the
+Interstate 70 corridor and points north. Some snow/sleet may fall
+briefly across the far north at onset, but for the most part pcpn
+will be freezing rain. Snow/sleet accumulations will be less than an
+inch, while ice accumulations will range from a few hundredths to
+around a tenth of an inch. The remainder of the region will have
+rain. Temperatures by sunrise will have warmed to near freezing
+across the far northwest to near 50 across the far southeast. On
+Thursday, as the s/wv moves northeast, the low pressure system will
+also move northeast. Pcpn will taper off in its wake and we may
+actually see a "dry slot" occur over much of the area during the
+morning. Temperatures will warm some in the east while they remain
+steady or slowly fall in the west during the day. Models continue to
+advertise another s/wv moving into the base of the trough which will
+move northeast across the mid/upper Ohio Valley Thursday night. This
+may bring the likelihood of pcpn back to our far southeast zones
+with just of chance elsewhere. By this time, ptype will be rain/snow
+with the ptype becoming all snow by Friday morning as temperatures
+settle into the mid 20s to the lower 30s. Right snow, snow
+accumulations will range from near an inch southeast to a few tenths
+elsewhere.
+
+The large scale mid level trough will have settled across the Great
+Lakes and Ohio Valley on Friday. It will be cloudy and seasonably
+cold with a chance of rain and/or snow lingering through the day.
+Highs will range from the lower to mid 30s.
+
+We will likely see a reprieve in pcpn chances Friday night as a weak
+surface ridge moves east through the region. However, clouds will
+remain in the CAA pattern. Lows will range from the lower 20s north
+to the upper 20s south.
+
+For Saturday into Saturday night, the large scale mid level trough
+will traverse east. However, another s/wv in the developing zonal
+flow to the west is expected to move east through the Tennessee and
+Ohio Valleys. Will continue with a low chance of rain/snow across
+the south/southeast as this location may be clipped by the weather
+feature. Highs will range from the mid 30s to the lower 40s. Lows
+will range from the mid 20s to near 30.
+
+It still appears that surface high pressure will build back into the
+region for Sunday/Sunday night. Models are having timing and
+strength issues on the next weather system for Monday. Dry
+conditions are slated for the Sunday/Sunday night time frame. Have
+kept low chance PoPs for Monday. Temperatures will be near or
+slightly above seasonal normals for early February.
+
+&&
+
+.AVIATION /18Z TUESDAY THROUGH SUNDAY/...
+Light rain continues to spread across the area this afternoon
+with most TAF sites now observing IFR ceilings. This is expected
+to persist into the late afternoon and early evening hours
+before a lull in precipitation arrives. As the cold front moves
+southward, a switch in wind direction from southwest to north-
+northeast is anticipated from 18-20Z.
+
+For the overnight,forecast soundings suggest an period of lower
+RHs advecting in from the north, allowing ceilings to gradually
+rise to VFR during the overnight and into Wednesday morning,
+especially for northern TAF sites. Across the south, closer
+proximity to the front may allow for stubborn MVFR ceilings to
+persist through the forecast period. Could still see some
+scattered showers and even isolated freezing rain/drizzle but
+drier low level should limit the coverage of drizzle. Overall
+impacts are expected to be low so FZRA/FZDZ not included with
+this forecast package.
+
+Introduced -RA for CVG starting late Wednesday afternoon as a
+secondary low pressure wave moves north into the Ohio Valley.
+While still 36 hours or more away, there is the potential for
+freezing rain across the western TAF sites and this may be noted
+in later forecast packages.
+
+
+OUTLOOK...MVFR/IFR ceilings and visibilities likely at times through
+Thursday night.
+
+&&
+
+.ILN WATCHES/WARNINGS/ADVISORIES...
+OH...None.
+KY...None.
+IN...None.
+
+&&
+
+$$
+SYNOPSIS...Coniglio
+NEAR TERM...McGinnis
+SHORT TERM...Coniglio
+LONG TERM...Hickman
+AVIATION...Coniglio

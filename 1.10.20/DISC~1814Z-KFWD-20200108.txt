@@ -1,0 +1,231 @@
+004
+FXUS64 KFWD 081814 AAA
+AFDFWD
+
+Area Forecast Discussion...UPDATED
+National Weather Service Fort Worth TX
+1214 PM CST Wed Jan 8 2020
+
+.SHORT TERM...
+/This afternoon through Thursday/
+
+Even though it is a rain-free day today, the weather is still far
+from tranquil. Gusty south and southeast winds will prevail this
+afternoon with gusts in the 20-30 mph range. These winds will
+help to transport higher moisture into the region tonight and
+Thursday, but dry conditions today are resulting in high fire
+danger concerns as relative humidity values are in the 20s and
+lower 30s across the region. The fire weather concerns will
+continue into the early evening hours when temperatures will
+start to cool and humidity values will start a quick rise. Higher
+humidity values on Thursday, along with cloudy and damp
+conditions, will help curtail fire weather concerns tomorrow,
+despite breezy winds and warmer temperatures.
+
+We will notice an increase in cloud cover starting later this
+afternoon, and then a stratus deck will spread across the region
+this evening and tonight as the low level jet increases,
+transporting richer low level moisture. Unfortunately, this
+stratus deck will persist for much of the day tomorrow; but the
+exception to this will be in our western counties where the
+clouds will likely break and/or clear Thursday afternoon. Gusty
+winds will continue tonight, but should diminish in speed some
+tomorrow. Tonight`s overnight lows will be noticeably warmer in
+the 50s.
+
+As moisture continues to increase and weak large scale lift
+traverses the region tomorrow, areas of drizzle, light rain, and a
+few showers will occur. For a good portion of the region, it will
+likely be a bleak, cloudy day. The forecast also mentions a
+slight chance for thunder in our eastern counties Thursday
+afternoon when the forecast soundings indicate the cap may weaken,
+but otherwise the cap is expected to hold down convective
+potential (including showers) for most of the day. It will be
+warmer tomorrow with highs in the upper 60s and lower 70s for most
+of North and Central Texas...however, high temperatures in the
+mid 60s are forecast along our Red River counties where cloudy and
+damp conditions are expected to persist all day.
+
+JLDunn
+
+&&
+
+.AVIATION...
+/18Z TAFs/
+
+Concerns: MVFR cigs returning this evening. Drizzle Thursday
+morning with an isolated shower also possible on Thursday.
+
+VFR conditions will prevail this afternoon, but the winds will be
+gusty to around 25 kts. These gusty winds will continue into
+tonight and will be transporting higher low level moisture into
+Central and North Texas. As a result, MVFR cigs are expected to
+spread across the region this evening and tonight. Timing the cigs
+is tricky but have decided to bump the timing up to 03-04Z with
+the arrival of a 2-3 kft cloud deck. Closer to daybreak Thursday,
+cigs will likely lower to 1-2 kft and should hold there all day on
+Thursday. Some models indicate scattered IFR cigs possible
+Thursday afternoon but was not confident enough to include that
+mention this far in advance.
+
+As ceilings lower early Thursday morning, areas of drizzle are
+expected to develop which will likely result in slightly reduced
+visibilities also. The drizzle is expected to clear the TAF sites
+by midday. An isolated shower may occur near TAF sites during the
+day on Thursday, but the overall potential is too low to mention
+and have removed VCSH from the TAFs. An isolated thunderstorm
+cannot be ruled out late Thursday afternoon, more likely to the
+east of the TAF sites, but the cap is expected to suppress nearly
+all convective potential during the day.
+
+JLDunn
+
+&&
+
+
+.LONG TERM... /Issued 422 AM CST Wed Jan 8 2020/
+/Thursday Onward/
+
+Friday and Saturday...
+
+A deep upper level trough will be digging through the southern
+Rockies on Friday, enhancing deep layer cyclogenesis along a
+strong baroclinic region in the Texas Panhandle. The deepening
+cyclone will allow for a strong low-level jet to continue through
+much of day, enhancing the poleward moisture transport. In fact,
+winds between 3,000-4,000 AGL will be racing to the northeast at
+60-70 mph. It is this southwesterly competent that will keep a lid
+on deep convection for much of the morning and early afternoon. A
+few showers and elevated thunderstorms cant be ruled out during
+the late morning and into the early afternoon, but with convective
+inhibition in place, the likelihood of any strong convection will
+be low.
+
+As we get into the afternoon hours, a shortwave will be rounding
+the base of the trough and begin making a move through North and
+Central Texas. Strong southwesterly winds will likely be ahead of
+an approaching cold front that will advance eastward through the
+afternoon. Ahead of the line, mixed layer instability will be on
+the rise as dynamic cooling enhances the steepening lapse rates.
+700-500mb lapse rates on the order of 7.5 to 8 C/km will spread
+through much of the eastern half of North and Central Texas while
+the thermal inversion weakens and erodes.
+
+There will be two areas that will need to be monitored for
+convective initiation, both of which could pose significant
+hazards to North and Central Texas residents.
+
+Area #1: The warm sector, generally anywhere east of the I-35
+corridor. As the thermal inversion erodes and lapse rates steepen,
+convection will have the opportunity to develop ahead of the
+approaching cold front. If and when convection develops, updrafts
+would have no limitation inhibiting them from reaching their full
+potential given the presence of strong effective bulk wind shear
+on the order of 60+ kts. Tilted updrafts coexisting with steep
+lapse rates would likely yield a large hail and damaging winds
+threat. Given the strong southwesterly low level jet in place and
+southeasterly winds at the surface, veering winds with height
+would also suggest there is a threat of tornadoes from any
+supercell that manages to develop in this environment. As
+mentioned above, the big question will be if the supercells will
+be able to develop.
+
+Area #2: Along the cold front that will be moving swiftly from
+west to east Friday afternoon and evening. Strong surface
+convergence will allow for a line of thunderstorm to develop along
+the I-35 corridor and move eastward through the rest of the day.
+Similar to the threats outlined in the warm sector analysis, this
+area will be characterized by strong updrafts capable of producing
+large hail and damaging winds. Additionally, very strong
+unidirectional winds at both the near lower and middle layers of
+the atmosphere could enhance the potential for bow echoes to
+develop within the main line of thunderstorms. The strong 0-3km
+shear vectors would also imply the potential for embedded QLCS
+tornadoes, especially the farther east of I-35 you go.
+
+On top of the hazards already mentioned, PWs will have surged to
+1.5-1.6 east of the I-35 corridor. To put that in perspective,
+that is about 3.5 times more moisture in the atmosphere that what
+we usually experience for this time of the year. Given these
+values, efficient rain producing showers and thunderstorms will be
+capable of dropping a quick 1 to 2+ inches. If a specific area
+receives multiple thunderstorms or a persistent line of
+thunderstorms, the threat of flash flooding will also increase.
+The areas that are most at risk of flash flooding would be east of
+a Sherman to Dallas to Corsicana line.
+
+As convection is exiting North and Central Texas, a reinforcing
+cold front will be making its way through region and will lead to
+winds shifting from the west Friday evening to strong
+northwesterly winds by around midnight. Winds behind the cold
+front will likely exceed 20 mph and will likely persist through
+much of the morning hours Saturday.
+
+The next big question is whether or not there will frozen
+precipitation falling from the sky anywhere in the region Saturday
+morning. The short answer: maybe. The long answer: probability of
+frozen precipitation remains low at this moment but definitely
+still possible along and north of US-380. There are still some
+uncertainties as to just how far south the main low circulation
+will be. Guidance through the day on Tuesday suggested a northward
+track, leading to any snow mainly north of the Red River. The 00Z
+Euro threw a curve ball with a slightly southward shift in the
+track, and although models will continue to wobble back and forth,
+the possibility of frozen precipitation cant be discounted
+just yet. Additionally, a slew of ensemble members continue to
+advertise there is a chance of wintry precipitation, although its
+expected to remain light. Given enough ensembles display this
+possibility, have introduced a rain/snow mix for those counties
+adjacent to the Red River Saturday morning. Once again, if it does
+precipitate, it would be very light and no accumulations or
+impacts are expected. Of course, given the vigorous system at
+play, slight changes to the models can translate to drastic
+changes in the precipitation chances and type. Additional details
+will become available in the next several days.
+
+Sunday Onward...
+
+Sunday will begin a reprieve from all the active weather the past
+several days. Temperatures will remain around seasonal normal for
+this time of the year with a light southerly breeze.
+Additional rain chances will arrive on Monday as the next
+shortwave approaches the region. Any rain chances will remain low
+and mainly confined to Central and East Texas. Those rain chances
+will linger through the middle of next week as moist air remains
+locked generally south of I-20. At the moment, severe weather does
+not appear likely.
+
+There is general consensus that a much stronger cold front will
+arrive sometime mid to late next week. There are still many small
+scale differences in the guidance that could alter the timing of
+the front, as well as precipitation chances. For now, will
+maintain a dry forecast given cold air advection implies a
+subsident airmass. This will continue to be analyzed through the
+coming days and any chances will be made if confidence in
+precipitation increases.
+
+Hernandez
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    66  55  68  62  73 /   0  10  30  30  80
+Waco                67  57  72  62  75 /   0  10  30  10  60
+Paris               65  50  64  61  71 /   0  10  40  50  90
+Denton              65  54  68  61  72 /   0  10  30  30  80
+McKinney            64  53  67  62  72 /   0  10  30  30  90
+Dallas              67  56  68  63  73 /   0  10  30  30  90
+Terrell             65  54  70  62  73 /   0  10  40  30  80
+Corsicana           67  54  71  63  72 /   0  10  30  30  70
+Temple              68  56  71  62  74 /   0  10  20  10  40
+Mineral Wells       67  53  71  58  72 /   0  10  10  10  50
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+82/37
